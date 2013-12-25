@@ -1,5 +1,8 @@
-# CongressChecklist
+# Dans CongressChecklist
 ===================
+
+**Original made by MacLemon! THank you very much!
+
 
 List of things to do, to pack and tips on attending a congress, especially Chaos Communication Congress.
 
